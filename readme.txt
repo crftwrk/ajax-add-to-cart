@@ -1,4 +1,4 @@
-=== Post Slider ===
+=== Ajax add to cart for WooCommerce ===
 
 Contributors: craftwerk
 
